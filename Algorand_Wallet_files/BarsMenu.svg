@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#a2a1a1;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__Group_5021" data-name="Group 5021" transform="translate(-27.102 -114.598)">
+        <path id="prefix__Path_921" d="M0 0v20" class="prefix__cls-1" data-name="Path 921" transform="rotate(90 -34.248 81.35)"/>
+        <path id="prefix__Path_922" d="M0 0v20" class="prefix__cls-1" data-name="Path 922" transform="rotate(90 -38.248 85.35)"/>
+        <path id="prefix__Path_923" d="M0 0v20" class="prefix__cls-1" data-name="Path 923" transform="rotate(90 -42.248 89.35)"/>
+    </g>
+</svg>
